@@ -2,6 +2,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     margin: 0;
+    color: #fff;
 }
 
 .page {
@@ -14,11 +15,6 @@ body {
     font-size: 16px;
     color: aquamarine;
     text-decoration: underline;
-}
-
-h1,
-h2 {
-    color: #fff;
 }
 
 h1 {
@@ -40,6 +36,5 @@ p {
 
 footer {
     text-align: right;
-    color: gray;
-    padding: 0px 10px 20px 0px;
+    padding: 0px 15px 5px 0px;
 }
