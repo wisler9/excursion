@@ -1,0 +1,46 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 0;
+    background-color: hsl(hue, saturation, lightness);
+}
+
+.page {
+    width: 1300px;
+    margin: 0 auto;
+    background-color: #000;
+}
+
+.download {
+    font-size: 16px;
+    color: aquamarine;
+    text-decoration: underline;
+}
+
+h1,
+h2 {
+    color: #fff;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    margin: 0;
+    padding-top: 15px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    padding: 0px 10px 20px 0pxs;
+}
